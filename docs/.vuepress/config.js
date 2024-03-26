@@ -2,14 +2,14 @@
  * @Author: zhangkaichao zhangkc@kcwl.com
  * @Date: 2024-03-25 13:38:51
  * @LastEditors: zhangkaichao zhangkc@kcwl.com
- * @LastEditTime: 2024-03-26 17:28:48
+ * @LastEditTime: 2024-03-26 18:29:05
  * @FilePath: /vuepress-starter/docs/.vuepress/config.js
  * @Description:
  */
 module.exports = {
   title: "KC",
   description: "KC的笔记",
-  base: "/docs/",
+  // base: "/docs/",
   locales: {
     "/": {
       lang: "zh-CN",
